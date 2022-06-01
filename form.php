@@ -80,7 +80,7 @@
                     <form method="post" action="">
                         <div class="mb-3 mt-3">
                             <label for="FirstName">First Name:</label>
-                            <input type="email" class="form-control" id="FirstName" placeholder="Enter first name" name="FirstName">
+                            <input type="text" class="form-control" id="FirstName" placeholder="Enter first name" name="FirstName">
                         </div>
                     
                     <button type="submit" class="btn btn-primary">Submit</button>
